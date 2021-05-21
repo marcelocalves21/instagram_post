@@ -1,0 +1,98 @@
+body {
+    background-color: black;
+    width: auto;
+    height: auto;
+    font-family: 'Roboto', sans-serif;;
+}
+
+.post {
+    width: 25%;
+    height: 70%;
+    margin: auto;
+    margin-top: 60px;
+    background-color: white;
+}
+
+/* Post Header */
+
+.post-header {
+    width: 100%;
+    height: 15%;
+    display: flex;
+}
+
+.header-icon-left {
+    height: 100%;
+    width: 10%;
+    text-align: right;
+}
+
+#html-logo {
+    padding-top: 40%;
+    padding-right: 10%;
+}
+
+.title {
+    width: 30%;
+    height: 100%;
+    font-size: 10px;
+    padding-left: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+}
+
+.title p {
+    font-size: 12pt;
+}
+
+#main-title {
+    font-weight: 900;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+#sub-title {
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.header-icon-right {
+    height: 100%;
+    width: 60%;
+    text-align: right;
+    padding-top: 17px;
+    padding-right: 15px;
+}
+
+#menu-logo {
+    padding-top: 0;
+    padding-right: 0;
+}
+
+/* Image */
+
+.image {
+    width: 100%;
+    height: 50%;
+    background-color: white;
+}
+
+.image img {
+    width: 100%;
+    height: 100%;
+}
+
+/* footer */
+
+.post-footer {
+    margin: 0;
+    padding: 10px;
+}
+
+#bookmark-logo {
+    margin-left: 65%;
+    margin-right: 0;
+    padding-right: 0;
+}
